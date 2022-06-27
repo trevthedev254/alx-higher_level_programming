@@ -2,3 +2,4 @@
 1-run_inline - shell script that runs python code
 2-print.py - print a string and make use of new line functionality
 3-print_number - print integer
+4-print_float - prints a float number
